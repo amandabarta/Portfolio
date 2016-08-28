@@ -1,4 +1,4 @@
 My Portfolio
 
 Hello World!
-This is my first project on github.
+This is my first project on Github.
