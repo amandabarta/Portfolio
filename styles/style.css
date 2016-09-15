@@ -17,7 +17,7 @@
   line-height: 40px;
 }
 
-.hero.landscape {
+.hero .landscape {
   color: white;
 }
 
@@ -28,14 +28,14 @@
 
 #intro h1 {
   text-shadow: 0px 5px 5px;
-  color: rgba (0,0,0,.25);
+  color: rgba(0, 0, 0, 0.25);
   font-size: 72px;
   line-height: 55px;
 }
 
 #intro h5 {
   text-shadow: 0px 5px 5px;
-  color: rgba (0,0,0,.25);
+  color: rgba(0, 0, 0, .25);
   margin-bottom: 20px;
   font-size: 24px;
   font-weight: 700;
@@ -137,8 +137,7 @@
 
 #footer {
   height: 40px;
-  margin-left: 10%;
-  margin-right: 10%;
+  padding-left: 10%;
   padding-bottom: 150px;
   width: 100%;
   display:flex;
